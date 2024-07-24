@@ -3,6 +3,7 @@ layout: default
 title: Jesse Rogers' Portfolio
 ---
 ## Projects
+Swipe to see more
 <div class="project-grid">
   {% for project in site.data.projects %}
     <div class="project-card">

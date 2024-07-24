@@ -70,6 +70,18 @@ h2 {
     background: linear-gradient(to bottom, #2ea043, #3fb950);
 }
 
+/* New styles for links in the About Me section */
+#about-me a {
+    color: #2ea043;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+#about-me a:hover {
+    color: #3fb950;
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     margin-top: 2rem;

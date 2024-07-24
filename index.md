@@ -2,9 +2,7 @@
 layout: default
 title: Jesse Rogers' Portfolio
 ---
-
 ## Projects
-
 <div class="project-grid">
   {% for project in site.data.projects %}
     <div class="project-card">
@@ -15,7 +13,5 @@ title: Jesse Rogers' Portfolio
     </div>
   {% endfor %}
 </div>
-
 ## About Me
-
-I'm Jesse Rogers, a Learning Lab Coordinator at Palm Beach State College, as well as a Podcaster, Writer, and Indie Game Developer. I'm focused on making education more fun and interesting. My work email is [ rogersjj@palmbeachstate.edu ]. For free tutoring, visit us at [ https://www.palmbeachstate.edu/slc/ ] (currently enrolled PBSC students only).
+I'm Jesse Rogers, a Learning Lab Coordinator at Palm Beach State College, as well as a Podcaster, Writer, and Indie Game Developer. I'm focused on making education more fun and interesting. My work email is <a href="mailto:rogersjj@palmbeachstate.edu">rogersjj@palmbeachstate.edu</a>. For free tutoring, visit us at <a href="https://www.palmbeachstate.edu/slc/" target="_blank">https://www.palmbeachstate.edu/slc/</a> (currently enrolled PBSC students only).

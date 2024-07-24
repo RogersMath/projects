@@ -7,3 +7,18 @@
   course: Any
   image: /assets/images/primes.png
   link: https://rogersmath.github.io/Primes/
+
+- title: American History Before 1865
+  course: AMH2010
+  image: /assets/images/AmericanHistoryPre.png
+  link: https://rogersmath.github.io/Primes/
+
+- title: American History Since 1865
+  course: AMH2020
+  image: /assets/images/AmericanHistoryPost.png
+  link: https://rogersmath.github.io/Primes/
+
+- title: Modern World History
+  course: WOH1022
+  image: /assets/images/worldHistory.png
+  link: https://rogersmath.github.io/Primes/
